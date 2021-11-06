@@ -10,7 +10,7 @@ function App() {
 {pageTitle}
        </b>
         <p>
-         Git Session for batch 1.3
+         Git Session for batch 1.3 and its a working saturaday after diwali.. 
         </p>
         <a
           className="App-link"
